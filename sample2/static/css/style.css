@@ -1,0 +1,8 @@
+.first-div{
+    float: right;
+    width: 100%;
+    background-color: aqua;
+    font-size: 30px;
+    font-weight: 900;
+    text-align: center;
+}
