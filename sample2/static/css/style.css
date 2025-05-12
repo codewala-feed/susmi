@@ -1,8 +1,54 @@
 .first-div{
-    float: right;
+    float: left;
     width: 100%;
     background-color: aqua;
     font-size: 30px;
     font-weight: 900;
     text-align: center;
+    border: 4px solid black;
+}
+
+.second-div{
+    float: left;
+    width: 50%;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.third-div{
+    float: left;
+    width: 50%;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.fourth-div{
+    float: left;
+    width: 60%;
+    background-color: cadetblue;
+    margin: 2% 20% 3% 20%;
+    text-align: center;
+    padding: 5% 0% 5% 0%;
+}
+
+.fifth-div{
+    float: left;
+    width: 45%;
+    background-color: red;
+    border: 4px solid black;
+    font-size: 35px;
+    padding: 3% 0% 3% 0%;
+    text-align: center;
+    margin: 0% 4.25% 20% 0%;
+}
+
+.sixth-div{
+    float: left;
+    width: 45%;
+    background-color: aquamarine;
+    border: 4px solid black;
+    padding: 3% 0% 3% 0%;
+    text-align: center;
+    font-size: 35px;
+    margin: 0% 0% 20% 4.25%;
 }
