@@ -52,3 +52,40 @@
     font-size: 35px;
     margin: 0% 0% 20% 4.25%;
 }
+
+.parent{
+    float: left;
+    width: 94%;
+    border: 4px solid black;
+    margin: 0% 0% 15% 3%;
+    text-align: center;
+    font-size: 30px;
+    padding: 3% 0% 3% 0%;
+}
+
+.sub1{
+    float: left;
+    width: 30%;
+    border: 4px solid black;
+    margin: 1% 0% 1% 2%;
+    background-color: greenyellow;
+    padding: 3% 0% 3% 0%;
+}
+
+.sub2{
+    float: left;
+    width: 30%;
+    border: 4px solid black;
+    margin: 1% 0% 1% 2%;
+    background-color: greenyellow;
+    padding: 3% 0% 3% 0%;
+}
+
+.sub3{
+    float: left;
+    width: 30%;
+    border: 4px solid black;
+    margin: 1% 0% 1% 2%;
+    background-color: greenyellow;
+    padding: 3% 0% 3% 0%;
+}
