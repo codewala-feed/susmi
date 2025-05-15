@@ -17,3 +17,15 @@
     text-decoration: none;
     color: aliceblue;
 }
+.hero-div{
+    float: left;
+    width: 100%;
+    background-color: red;
+}
+
+.hero-div img{
+    float: left;
+    width: 25%;
+    height: 200px;
+
+}
