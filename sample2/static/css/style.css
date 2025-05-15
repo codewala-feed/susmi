@@ -116,3 +116,7 @@
     padding: 3% 0% 3% 0%;
     border: 4px solid black;
 }
+
+.main-sub1 h1{
+    color: red;
+}
